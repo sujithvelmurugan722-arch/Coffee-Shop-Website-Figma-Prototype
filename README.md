@@ -11,4 +11,4 @@ This repository contains a beginner-level coffee website UI/UX design created by
 
 # Prototype PDF
 You can view to the PDF of the basic prototype here:
-- 
+- Coffee Shop Website .pdf
